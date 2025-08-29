@@ -1,4 +1,3 @@
-from utils_sandra_otubushin import get_tagline
+from utils_sandra_otubushin import get_byline
+print(get_byline())
 
-if __name__ == "__main__":
-    print(get_tagline())
