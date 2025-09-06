@@ -1,4 +1,4 @@
-
+﻿
 # requirements.txt - list all the packages the project needs
 #
 # In this file, ignore hashes (#) - they are just used to create comments.
@@ -191,7 +191,7 @@
 # Interactive widgets (often used in notebooks).
 #ipywidgets
 
-# tool for “diffing” and merging of Jupyter Notebooks
+# tool for â€œdiffingâ€ and merging of Jupyter Notebooks
 #nbdime
 
 # a JupyterLab extension for version control using git
@@ -232,7 +232,7 @@
 # DBT DuckDB Adapter: Allows dbt to run on DuckDB (~20-30 MB)
 # dbt-duckdb
 
-# SQLMesh: Alt. to DBT for declarative data transformations in SQL, Python (~30–50 MB)
+# SQLMesh: Alt. to DBT for declarative data transformations in SQL, Python (~30â€“50 MB)
 # sqlmesh
 
 # Workflow orchestration for Python tasks (~30-50 MB)
@@ -349,5 +349,5 @@
 # ==========================
 # NETWORKING / HTTP
 # ==========================
-requests
+requests==2.32.5
 
