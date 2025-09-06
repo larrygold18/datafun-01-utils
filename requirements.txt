@@ -344,10 +344,10 @@
 
 # For request validation and serialization in FastAPI (5-10 MB)
 # pydantic     
-@"
+
 
 # ==========================
 # NETWORKING / HTTP
 # ==========================
 requests
-"@ | Add-Content requirements.txt
+
